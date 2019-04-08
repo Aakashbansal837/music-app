@@ -1,0 +1,31 @@
+.landing_page_style { 
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom:5px ;
+ }
+
+ .song_name {
+    color :white;
+ }
+ .internal_container {
+    margin-top: 20px;
+    margin-right: 20px;
+    padding: 5px 5px;
+    float: left;
+    box-shadow: 5px 8px rgba(0,0,0,0.4);
+    background:linear-gradient( to right, #5F04B4, #B404AE);;
+ }
+
+ .usrImg { 
+        height: 80px;
+        width : 80px;
+     }
+
+.img_container {
+    position: absolute;
+    margin-top: 10px;
+}
+
+.audio_container {
+    position: relative;
+}
